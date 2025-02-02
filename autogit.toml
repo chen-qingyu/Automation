@@ -45,6 +45,16 @@ remote = { github = 'https://github.com/chen-qingyu/bf', gitee = 'https://gitee.
 upstream = 'github'
 
 [[repos]]
+path = 'E:/Project/flags'
+remote = { github = 'https://github.com/chen-qingyu/flags' }
+upstream = 'github'
+
+[[repos]]
+path = 'E:/Project/greek-char'
+remote = { github = 'https://github.com/chen-qingyu/greek-char' }
+upstream = 'github'
+
+[[repos]]
 path = 'E:/Project/bad-apple'
 remote = { github = 'https://github.com/chen-qingyu/bad-apple', gitee = 'https://gitee.com/chobitsy/bad-apple' }
 upstream = 'github'
@@ -77,11 +87,6 @@ upstream = 'github'
 [[repos]]
 path = 'E:/Project/hexo-console-zhihu'
 remote = { github = 'https://github.com/chen-qingyu/hexo-console-zhihu.git' }
-upstream = 'github'
-
-[[repos]]
-path = 'E:/Project/hexo-theme-diaspora'
-remote = { github = 'https://github.com/chen-qingyu/hexo-theme-diaspora.git' }
 upstream = 'github'
 
 [[repos]]
