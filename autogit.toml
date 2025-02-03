@@ -6,42 +6,42 @@
 
 [[repos]]
 path = 'E:/Project/automation'
-remote = { github = 'https://github.com/chen-qingyu/automation.git', gitee = 'https://gitee.com/chobitsy/automation.git' }
+remote = { github = 'https://github.com/chen-qingyu/automation.git', gitee = 'https://gitee.com/chobity/automation.git' }
 upstream = 'github'
 
 [[repos]]
 path = 'E:/Project/pyincpp'
-remote = { github = 'https://github.com/chen-qingyu/pyincpp.git', gitee = 'https://gitee.com/chobitsy/pyincpp.git' }
+remote = { github = 'https://github.com/chen-qingyu/pyincpp.git', gitee = 'https://gitee.com/chobity/pyincpp.git' }
 upstream = 'github'
 
 [[repos]]
 path = 'E:/Project/pyinrs'
-remote = { github = 'https://github.com/chen-qingyu/pyinrs.git', gitee = 'https://gitee.com/chobitsy/pyinrs.git' }
+remote = { github = 'https://github.com/chen-qingyu/pyinrs.git', gitee = 'https://gitee.com/chobity/pyinrs.git' }
 upstream = 'github'
 
 [[repos]]
 path = 'E:/Project/hellods'
-remote = { github = 'https://github.com/chen-qingyu/hellods.git', gitee = 'https://gitee.com/chobitsy/hellods.git' }
+remote = { github = 'https://github.com/chen-qingyu/hellods.git', gitee = 'https://gitee.com/chobity/hellods.git' }
 upstream = 'github'
 
 [[repos]]
 path = 'E:/Project/mymatrix'
-remote = { github = 'https://github.com/chen-qingyu/mymatrix.git', gitee = 'https://gitee.com/chobitsy/mymatrix.git' }
+remote = { github = 'https://github.com/chen-qingyu/mymatrix.git', gitee = 'https://gitee.com/chobity/mymatrix.git' }
 upstream = 'github'
 
 [[repos]]
 path = 'E:/Project/code-base'
-remote = { github = 'https://github.com/chen-qingyu/code-base.git', gitee = 'https://gitee.com/chobitsy/code-base.git' }
+remote = { github = 'https://github.com/chen-qingyu/code-base.git', gitee = 'https://gitee.com/chobity/code-base.git' }
 upstream = 'github'
 
 [[repos]]
 path = 'E:/Project/hello-world'
-remote = { github = 'https://github.com/chen-qingyu/hello-world.git', gitee = 'https://gitee.com/chobitsy/hello-world.git' }
+remote = { github = 'https://github.com/chen-qingyu/hello-world.git', gitee = 'https://gitee.com/chobity/hello-world.git' }
 upstream = 'github'
 
 [[repos]]
 path = 'E:/Project/bf'
-remote = { github = 'https://github.com/chen-qingyu/bf', gitee = 'https://gitee.com/chobitsy/bf' }
+remote = { github = 'https://github.com/chen-qingyu/bf', gitee = 'https://gitee.com/chobity/bf' }
 upstream = 'github'
 
 [[repos]]
@@ -56,7 +56,7 @@ upstream = 'github'
 
 [[repos]]
 path = 'E:/Project/bad-apple'
-remote = { github = 'https://github.com/chen-qingyu/bad-apple', gitee = 'https://gitee.com/chobitsy/bad-apple' }
+remote = { github = 'https://github.com/chen-qingyu/bad-apple', gitee = 'https://gitee.com/chobity/bad-apple' }
 upstream = 'github'
 
 [[repos]]
@@ -66,17 +66,17 @@ upstream = 'github'
 
 [[repos]]
 path = 'E:/Study/Answer C Primer Plus'
-remote = { github = 'https://github.com/chen-qingyu/answer-cprimerplus.git', gitee = 'https://gitee.com/chobitsy/answer-cprimerplus.git' }
+remote = { github = 'https://github.com/chen-qingyu/answer-cprimerplus.git', gitee = 'https://gitee.com/chobity/answer-cprimerplus.git' }
 upstream = 'github'
 
 [[repos]]
 path = 'E:/Study/Answer OSTEP'
-remote = { github = 'https://github.com/chen-qingyu/answer-ostep.git', gitee = 'https://gitee.com/chobitsy/answer-ostep.git' }
+remote = { github = 'https://github.com/chen-qingyu/answer-ostep.git', gitee = 'https://gitee.com/chobity/answer-ostep.git' }
 upstream = 'github'
 
 [[repos]]
 path = 'E:/Study/Answer HtDP'
-remote = { github = 'https://github.com/chen-qingyu/answer-htdp.git', gitee = 'https://gitee.com/chobitsy/answer-htdp.git' }
+remote = { github = 'https://github.com/chen-qingyu/answer-htdp.git', gitee = 'https://gitee.com/chobity/answer-htdp.git' }
 upstream = 'github'
 
 [[repos]]
@@ -96,5 +96,5 @@ upstream = 'github'
 
 [[repos]]
 path = 'E:/Project/sand-box'
-remote = { gitee = 'https://gitee.com/chobitsy/sand-box.git' }
+remote = { gitee = 'https://gitee.com/chobity/sand-box.git' }
 upstream = 'gitee'
