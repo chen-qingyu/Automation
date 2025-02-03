@@ -95,11 +95,6 @@ remote = { github = 'https://github.com/semmath/semmath.git' }
 upstream = 'github'
 
 [[repos]]
-path = 'E:/Project/mathagape'
-remote = { gitee = 'https://gitee.com/chobitsy/mathagape.git' }
-upstream = 'gitee'
-
-[[repos]]
 path = 'E:/Project/sand-box'
 remote = { gitee = 'https://gitee.com/chobitsy/sand-box.git' }
 upstream = 'gitee'
